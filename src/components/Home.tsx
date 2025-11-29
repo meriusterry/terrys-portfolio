@@ -28,7 +28,7 @@ export default function Home() {
 
   return (
     <section id="home" className="min-h-screen bg-gradient-to-b from-gray-900 via-teal-900 to-gray-800 text-white flex items-center px-6 py-20">
-      <div className="max-w-6xl mx-auto grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
+      <div className="max-w-6xl mx-auto grid grid-cols-1 md:grid-cols-3 gap-12 items-center">
         {/* TEXT SECTION */}
         <div>
           <h1 className="text-5xl md:text-6xl font-extrabold leading-tight text-teal-300 mb-6">
