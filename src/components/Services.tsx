@@ -51,7 +51,7 @@ const services = [
 
     <div id="services" className="min-h-screen bg-gradient-to-b from-gray-900 via-teal-900 to-gray-800 text-white"
 >
-    <header className="max-w-6xl mx-auto px-6 py-12 flex flex-col items-center text-center">
+    <header className="max-w-6xl mx-auto px-6 py-20 flex flex-col items-center text-center">
   <div className="flex flex-col items-center gap-4">
     
     <h1 className="text-4xl font-bold mb-2 text-teal-400">Our Services</h1>
