@@ -102,7 +102,7 @@ const services = [
                   Request this service
                 </a>
                 <button
-                  onClick={() => alert(`${s.title} — contact form coming soon`)}
+                  onClick={() => alert(`${s.title} — Content comming soon`)}
                   className="px-3 py-1 rounded bg-white/5 hover:bg-white/10 text-sm"
                 >
                   Learn more
