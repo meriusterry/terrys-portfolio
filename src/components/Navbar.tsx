@@ -113,11 +113,11 @@ const Navbar: React.FC = () => {
       <div
         className={`
           md:hidden fixed top-20 right-0 h-half bg-gray-900 shadow-lg
-          w-2/4 transition-transform duration-300
+          w-full transition-transform duration-300
           ${isOpen ? "translate-x-0" : "translate-x-full"}
         `}
       >
-        <ul className="flex flex-col items-left p-10 gap-6 py-6">
+        <ul className="flex flex-col items-center p-10 gap-6 py-6">
           {links.map((link) => (
             <li
               key={link}
